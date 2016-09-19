@@ -1,0 +1,24 @@
+#social{
+	background-color: #2F2F2F;
+}
+#banner{
+	background-color: #FFFFFF;
+}
+#navbar{
+	background-color: #34BAC9;
+}
+body{
+	background-color: #FEFBF1;
+}
+.pink-message{
+	color: #EE7699;
+}
+.message{
+	color: #A6BDCB;
+}
+.txt{
+	text-align: center;
+}
+.txt-justify{
+	text-align: justify;
+}
