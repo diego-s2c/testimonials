@@ -22,3 +22,17 @@ body{
 .txt-justify{
 	text-align: justify;
 }
+.btn{
+	background-color: #EE4674;
+}
+a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.pagination1{
+	color: #000000;
+}
+.border_top_color{
+	border-top: thick solid #34BAC9;
+}
+
