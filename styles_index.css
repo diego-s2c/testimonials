@@ -35,4 +35,9 @@ a{
 .border_top_color{
 	border-top: thick solid #34BAC9;
 }
+.margin-top{
+	margin-top: 5%;
+	padding-bottom: 5%;
+	padding-top: 3%;
+}
 
