@@ -10,17 +10,15 @@
 body{
 	background-color: #FEFBF1;
 }
-.pink-message{
-	color: #EE7699;
-}
 .message{
-	color: #A6BDCB;
+	color: #FFFFFF;
 }
 .txt{
 	text-align: center;
 }
 .txt-justify{
 	text-align: justify;
+	font-size: 16px;
 }
 .btn{
 	background-color: #EE4674;
@@ -28,7 +26,6 @@ body{
 	width: 30%;
 }
 .pagination1{
-	color: #000000;
 	margin-top: 10%;
 }
 .border_top_color{
@@ -45,6 +42,12 @@ body{
 }
 .txt-size{
 	font-size: 20px;
+}
+#top-txt{
+	background-image: url("_img/woman_hands.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 @media only screen and (max-width: 480px){
 	.btn{
