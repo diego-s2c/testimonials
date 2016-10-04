@@ -46,8 +46,8 @@ body{
 #top-txt{
 	background-image: url("_img/woman_hands.jpg");
 	background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+  	background-attachment: fixed;
+        background-size: cover;
 }
 @media only screen and (max-width: 480px){
 	.btn{
