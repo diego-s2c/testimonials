@@ -44,7 +44,7 @@ body{
 	font-size: 20px;
 }
 #top-txt{
-	background-image: url(_img/woman_hands.jpg);
+	background-image: url(woman_hands.jpg);
 	background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
