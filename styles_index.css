@@ -11,7 +11,7 @@ body{
 	background-color: #FEFBF1;
 }
 .message{
-	color: #FFFFFF;
+	color: #F5F5F5;
 }
 .txt{
 	text-align: center;
@@ -26,7 +26,7 @@ body{
 	width: 30%;
 }
 .pagination1{
-	margin-top: 10%;
+	font-size: 16px;
 }
 .border_top_color{
 	border-top: thick solid #34BAC9;
