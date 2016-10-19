@@ -12,6 +12,7 @@ body{
 }
 .message{
 	color: #F5F5F5;
+	text-shadow: 0px 0px 5px #2d2b2b;
 }
 .txt{
 	text-align: center;
@@ -27,6 +28,7 @@ body{
 }
 .pagination1{
 	font-size: 16px;
+	color: #FFFFFF;
 }
 .border_top_color{
 	border-top: thick solid #34BAC9;
@@ -52,5 +54,8 @@ body{
 @media only screen and (max-width: 480px){
 	.btn{
 		font-size: 12px; 
+	}
+	.mobile-size{
+		width: 200%;
 	}
 }
