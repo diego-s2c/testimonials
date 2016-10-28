@@ -34,6 +34,7 @@ body{
 }
 .pagination1{
 	font-size: 16px;
+	margin-top: 50px;
 }
 .border_top_color{
 	border-top: thick solid #34BAC9;
@@ -66,4 +67,17 @@ h5{
 	.btn{
 		font-size: 12px; 
 	}
+	.pagination1{
+		margin-top: 0px;
+	}
+}
+@media only screen and (max-width : 768px){
+	.pagination1{
+		margin-top: 0px;
+	}	
+}
+@media only screen and (max-width : 992px){
+	.pagination1{
+		margin-top: 0px;
+	}	
 }
